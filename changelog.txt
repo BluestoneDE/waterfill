@@ -2,8 +2,8 @@
 Version: 2.0.0
   Changes:
     - Forked and updated for Factorio 2.0 (complete rewrite)
-    - Unfixed it to still kill players or destroys buildings again (may not work with Space Exploration)
-    - Added support for Space-Age DLC (restricted to Nauvis and Gleba only where water is actually available)
+    - Unfixed so it can kill players again
+    - Added support for Space-Age DLC (unrestricted)
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
   Changes:

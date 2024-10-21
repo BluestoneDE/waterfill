@@ -2,7 +2,7 @@ data:extend({
 {
 type = "technology",
 name = "waterfill",
-icon = "__Waterfill_v17__/water.png",
+icon = "__Waterfill_Fork__/water.png",
 prerequisites = {"landfill"},
 icon_size = 128,
 unit =
